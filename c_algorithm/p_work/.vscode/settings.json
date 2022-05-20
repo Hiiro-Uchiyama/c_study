@@ -1,0 +1,22 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "problems.showCurrentInStatus": true,
+    "terminal.integrated.profiles.linux": {
+
+        "bash": {
+            "path": "bash"
+        },
+        "zsh": {
+            "path": "zsh"
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux"
+        },
+        "pwsh": {
+            "path": "pwsh"
+        }
+    }
+}
